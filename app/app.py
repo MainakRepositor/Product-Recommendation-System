@@ -37,14 +37,14 @@ st.text("")
 
 session.slider_count = st.slider(label="Product Count", min_value=5, max_value=50)
 
-base_recommend = st.radio("Recommend based on: ", ('Ingredients', 'Description'))
+base_recommend = st.radio("Recommend based on: ", ('Ingredients (Content-based)', 'Description (Collaborative)'))
 
 by_ingred = False
 by_desc  = False
 
-if(base_recommend == 'Ingredients'):
+if(base_recommend == 'Ingredients (Content-based)'):
     by_ingred = True
-elif(base_recommend == 'Description'):
+elif(base_recommend == 'Description (Collaborative)'):
     by_desc  = True
 
 buffer1, col1, buffer2 = st.columns([1.45, 1, 1])
