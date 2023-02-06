@@ -9,15 +9,7 @@ Content-based recommendation engine that recommends scraped Dermstore skincare p
 4) Products recommended based on highest **Cosine Similarity**
 
 
-## To Run:
-1) Run ```scrapy crawl <spider> -O file_name.csv``` (for each spider)
-2) Update Chromedriver path ```clean_ingredients.py```
-3) Run ```python3 clean_ingredients.py```
-4) Run ```streamlit run app.py```
-
-**Access App Locally:** http://localhost:8501 
-
-**My App:** https://agavili-skincare-recommender-appapp-z3slwy.streamlit.app/
+**My App:** https://colabcontent.streamlit.app/
 
 ## ✨ App Demo ✨
 
