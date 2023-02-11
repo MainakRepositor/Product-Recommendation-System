@@ -60,7 +60,7 @@ instaloader==4.9.5
 instascrape==0.1
 instascraper==2.0.4
 ipykernel==6.15.3
-ipython==8.5.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==8.0.4
 itemadapter==0.7.0
