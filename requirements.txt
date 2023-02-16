@@ -200,7 +200,7 @@ wasabi==0.10.1
 wcwidth==0.2.5
 webdriver-manager==3.8.3
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 widgetsnbextension==4.0.5
 wsproto==1.2.0
 xattr==0.9.9
