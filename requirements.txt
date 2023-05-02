@@ -43,7 +43,7 @@ entrypoints==0.4
 executing==1.0.0
 fastjsonschema==2.16.1
 filelock==3.8.0
-Flask==2.2.2
+Flask==2.3.2
 Flask-Compress==1.13
 fonttools==4.38.0
 gitdb==4.0.10
