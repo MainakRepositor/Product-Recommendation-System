@@ -16,7 +16,7 @@ blis==0.7.9
 Brotli==1.0.9
 cachetools==5.2.1
 catalogue==2.0.8
-certifi==2022.9.14
+certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
